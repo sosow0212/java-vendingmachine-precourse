@@ -26,6 +26,8 @@
     - Coin Enum 활용해서 풀이 (가격과, 수량)
   - Product
     - 상품명, 가격, 수량
+  - ProductInfo
+    - Product 관리
   - Machine
     - 보유 동전 (보유 금액 바탕) -> Coin
     - 투입 금액
